@@ -1,0 +1,880 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<!-- start : Framework/Generic -->
+	<!-- start : ocom/common/global/components/framework/head -->
+<head>
+	<!-- start : ocom/common/global/components/head -->
+	<title>Trials and Downloads | Oracle</title>
+	<meta name="Title" content="Trials and Downloads | Oracle">
+	
+			<meta name="Description" content="Access Oracle trials and downloads for Middleware, Database, Java, Enterprise Management, and more from Oracle Technology Network.">
+		
+	<meta name="Keywords" content="Downloads, java downloads">
+	
+	<meta name="siteid" content="us">
+	<meta name="countryid" content="US">
+	<meta name="robots" content="index, follow">
+	<meta name="country" content="United States">
+	<meta name="Language" content="en">
+	<meta name="Updated Date" content="2014-06-17T18:17:49Z">
+	<!-- start : ocom/common/global/components/social-media-meta-tags -->
+<!-- end : ocom/common/global/components/social-media-meta-tags -->
+<!-- start : ocom/common/global/components/seo-hreflang-meta-tags -->
+					<link rel="alternate" hreflang="en-AE" href="https://www.oracle.com/ae/downloads/index.html" />
+					
+					<link rel="alternate" hreflang="es-AR" href="https://www.oracle.com/ar/downloads/index.html" />
+					
+					<link rel="alternate" hreflang="en-AU" href="https://www.oracle.com/au/downloads/index.html" />
+					
+					<link rel="alternate" hreflang="pt-BR" href="https://www.oracle.com/br/downloads/index.html" />
+					
+					<link rel="alternate" hreflang="en-CA" href="https://www.oracle.com/ca-en/downloads/index.html" />
+					
+					<link rel="alternate" hreflang="fr-CA" href="https://www.oracle.com/ca-fr/downloads/index.html" />
+					
+					<link rel="alternate" hreflang="zh-CN" href="https://www.oracle.com/cn/downloads/index.html" />
+					
+					<link rel="alternate" hreflang="es-CO" href="https://www.oracle.com/co/downloads/index.html" />
+					
+					<link rel="alternate" hreflang="cs-CZ" href="https://www.oracle.com/cz/downloads/index.html" />
+					
+					<link rel="alternate" hreflang="de-DE" href="https://www.oracle.com/de/downloads/index.html" />
+					
+					<link rel="alternate" hreflang="en-US" href="https://www.oracle.com/downloads/index.html" />
+					
+					<link rel="alternate" hreflang="es-ES" href="https://www.oracle.com/es/downloads/index.html" />
+					
+					<link rel="alternate" hreflang="fr-FR" href="https://www.oracle.com/fr/downloads/index.html" />
+					
+					<link rel="alternate" hreflang="en-IN" href="https://www.oracle.com/in/downloads/index.html" />
+					
+					<link rel="alternate" hreflang="it-IT" href="https://www.oracle.com/it/downloads/index.html" />
+					
+					<link rel="alternate" hreflang="ja-JP" href="https://www.oracle.com/jp/downloads/index.html" />
+					
+					<link rel="alternate" hreflang="ko-KR" href="https://www.oracle.com/kr/downloads/index.html" />
+					
+					<link rel="alternate" hreflang="es-MX" href="https://www.oracle.com/mx/downloads/index.html" />
+					
+					<link rel="alternate" hreflang="nl-NL" href="https://www.oracle.com/nl/downloads/index.html" />
+					
+					<link rel="alternate" hreflang="pl-PL" href="https://www.oracle.com/pl/downloads/index.html" />
+					
+					<link rel="alternate" hreflang="ro-RO" href="https://www.oracle.com/ro/downloads/index.html" />
+					
+					<link rel="alternate" hreflang="ru-RU" href="https://www.oracle.com/ru/downloads/index.html" />
+					
+					<link rel="alternate" hreflang="sv-SE" href="https://www.oracle.com/se/downloads/index.html" />
+					
+					<link rel="alternate" hreflang="tr-TR" href="https://www.oracle.com/tr/downloads/index.html" />
+					
+					<link rel="alternate" hreflang="zh-TW" href="https://www.oracle.com/tw/downloads/index.html" />
+					
+					<link rel="alternate" hreflang="en-GB" href="https://www.oracle.com/uk/downloads/index.html" />
+					
+					<meta name="altpages" content="ae,ar,au,br,ca-en,ca-fr,cn,co,cz,de,es,fr,in,it,jp,kr,mx,nl,pl,ro,ru,se,tr,tw,uk">
+				<!-- end : ocom/common/global/components/seo-hreflang-meta-tags -->
+
+	<!-- end : ocom/common/global/components/head -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+	<!-- start : ocom/common/global/components/framework/layoutAssetHeadInfo -->
+	<!-- Dispatcher:null -->
+	
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- BEGIN OCOM CSS/JS -->
+ <script>
+ !function(){
+ var d=document.documentElement;d.className=d.className.replace(/no-js/,'js');
+ if(document.location.href.indexOf('betamode=') > -1) document.write('<script src="https://www.oracle.com/asset/web/js/ocom-betamode.js"><\/script>');
+ }();
+ </script>
+ 
+ <link data-wscss href="https://www.oracle.com/asset/web/css/ocom-v1-base.css" rel="stylesheet">
+ <link data-wscss href="https://www.oracle.com/asset/web/css/ocom-v1-styles.css" rel="preload" as="style" onload="this.rel='stylesheet'" onerror="this.rel='stylesheet'">
+ 
+ <noscript>
+ <link href="https://www.oracle.com/asset/web/css/ocom-v1-styles.css" rel="stylesheet">
+ </noscript>
+ 
+ <script data-wsjs src="https://www.oracle.com/asset/web/js/jquery-min.js" async onload="$('head link[data-reqjq][rel=preload]').each(function(){var a = document.createElement('script');a.async=false;a.src=$(this).attr('href');this.parentNode.insertBefore(a, this);});$(function(){$('script[data-reqjq][data-src]').each(function(){this.async=true;this.src=$(this).data('src');});});"></script>
+ 
+ <link data-wsjs data-reqjq href="https://www.oracle.com/asset/web/js/ocom-v1-base.js" rel="preload" as="script">
+ <link data-wsjs data-reqjq href="https://www.oracle.com/asset/web/js/ocom-v1-lib.js" rel="preload" as="script">
+ 
+ <!-- END OCOM CSS/JS -->
+<!-- start : ocom/common/global/components/truste-language-code -->
+<script async="async" type="text/javascript" src='//consent.truste.com/notice?domain=oracle.com&c=teconsent&js=bb&noticeType=bb&text=true' crossorigin></script>
+<!-- end : ocom/common/global/components/truste-language-code -->
+
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+	<!-- Dispatcher:null -->
+	
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+ <!-- www-us HeadAdminContainer -->
+  <style>
+  #oReactiveChatContainer1 { display:none;}
+  </style>
+  <!--DTM embed code - Header -->
+  <script src="//assets.adobedtm.com/6f37a0dc9cdbe818dc4979828b58b88e3f060ea4/satelliteLib-e598c5b61e39a10b402e048e87dd27b0f1cd2d4c.js"></script>
+  
+  <!-- Truste for RU -->
+  <script type="text/javascript">
+  if (location.pathname.indexOf("/ru/") == 0){
+  document.write('\x3Cscript async="async" src=//consent.truste.com/notice?domain=oracleru.com&c=teconsent&js=bb&noticeType=bb&text=true crossorigin="">\x3C/script>');
+  }
+  </script>
+  
+ <!--End-->
+
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+
+<!-- end : ocom/common/global/components/framework/layoutAssetHeadInfo -->
+
+
+</head><!-- end : ocom/common/global/components/framework/head --><!-- start : ocom/common/global/components/framework/layoutAssetStartBodyInfo -->
+	<body class="f11 f11v6">
+
+		
+	<!-- Dispatcher:null -->
+	
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- www-us StartBodyAdminContainer -->
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+
+		<div class="f11w1">
+
+			
+	<!-- Dispatcher:null -->
+	
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- U02v0 -->
+<nav class="u02nav">
+<div class="u02" id="u02">
+
+	<div id="u02skip2content" tabindex="-1" data-skiptxtprepend="Skip"  data-skiptxtappend="">
+		<ul>
+			<li><a href="/">Home</a></li>
+			<li><a id="u02skip2c" href="#maincontent">Skip to Content</a></li>
+			<li><a id="u02skip2s" href="#skip_to_search_form">Skip to Search</a></li>
+		</ul>
+	</div>
+
+	<div class="u02w1">
+
+		<!-- logo -->
+		<div class="u02logo" data-trackas="header"><div class="u02logow1"><a href="https://www.oracle.com/index.html" data-trackas="header" data-lbl="logo" class="o_icon"><span>Oracle</span></a></div></div>
+
+		<!-- menu -->
+		<div class="u02menu" data-trackas="menu">
+			<div id="u02main" class="u02mlink">
+				<div class="u02mlinkw1">
+					<a href="/mosaic-menu/index.html" id="u02menulink" data-lbl="menu">
+						<div class="u02mlinkw2">Menu</div>
+					</a>
+				</div>
+			</div>
+		</div>
+
+		<!-- search -->
+		<div id="u02search" class="u02search" data-trackas="header">
+			<form class="u02searchform" name="searchForm" method="get" action="https://www.oracle.com/search/results">
+				<input type="hidden" name="Nty" value="1">
+				<input type="hidden" name="Ntk" value="S3">
+				<input id="txtSearch" class="textcnt autoclear" name="Ntt" value="">
+				<input class="u02searchbttn" type="submit" value="Submit Search" />
+			</form>
+		</div>
+
+		<div class="u02tools" data-trackas="header">
+			<ul>
+				<!-- user tools -->
+				<li class="u02mtool u02toolsloggedout">
+					<a href="#usermenu" class="u02ticon u02user" data-lbl="profile:sign-in-account">
+						<span class="u02signin">Sign In</span>
+						<span class="u02signout">Account</span>
+					</a>
+					
+					<div class="u02user u02toolpop" data-lbl="profile">
+						<div class="u02userin">
+							<div class="u02userinw1 u02userloggedin" data-lbl="oracle-account">
+								<h5>Oracle Account</h5>
+								<p id="u02userinfo"></p>
+								<a data-lbl="sign-out" href="javascript:sso_sign_out();" id="u02pfile-sout" class="u02bttn">Sign Out</a>
+								<ul id="u02usertools">
+									<li><a data-lbl="account" id="u02pfile-acct" href="https://profile.oracle.com/myprofile/account/secure/update-account.jspx?nexturl=">Account</a></li>
+									<li><a data-lbl="help" href="https://www.oracle.com/corporate/contact/help.html">Help</a></li>
+								</ul>
+
+
+							</div>
+							<div class="u02userinw1 u02userloggedout" data-lbl="oracle-account">
+								<h5>Oracle Account</h5>
+								<p>Manage your account and access personalized content.</p>
+								<a href="http://www.oracle.com/webapps/redirect/signon?nexturl=" id="u02pfile-regs" data-lbl="signin" class="u02bttn">Sign In</a>
+								<ul id="u02usertools">
+									<li><a href="https://profile.oracle.com/myprofile/account/create-account.jspx" data-lbl="createaccount">Create an account</a></li>
+									<li><a data-lbl="help" href="https://www.oracle.com/corporate/contact/help.html">Help</a></li>
+</ul>
+							</div>
+							<div class="u02userinw2" data-lbl="cloud-account">
+								<h5>Cloud Account</h5>
+								<p>Access your cloud dashboard, manage orders, and more.</p>
+								<a href="https://cloud.oracle.com/sign-in" data-lbl="signin" class="u02bttn">Sign In</a>
+<ul class="u02usertools"><li><a data-lbl="cta-062018-account-header-cloud-trial" href="https://cloud.oracle.com/en_US/tryit?intcmp=ocom-header">Free Cloud Platform Trial</a></li></ul>
+							</div>
+						</div>
+					</div>
+
+				</li>
+
+
+				<!-- country select -->
+				<li class="u02mtool" id="u02cmenu">
+					<a href="/mosaic-menu/index.html#u02countrymenu" class="u02ticon u02regn"><span>Country/Region</span></a>
+				</li>
+				<!-- call -->
+				<li class="u02mbttn" id="u02call">
+					<a data-lbl="call" href="#callOracle" class="u02ticon u02call o-call"><span>Call</span></a>
+				</li>
+				<!-- chat -->
+				<!--<li class="u02mbttn" id="u02chat">
+					<a data-lbl="chat" href="#chat" class="u02ticon u02chat"><span>Chat</span></a>
+				</li>-->
+			</ul>
+		</div>
+	</div>
+	<a id="maincontent">&nbsp;</a>
+</div>
+</nav>
+<!-- /U02v0 -->
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+
+<!-- end : ocom/common/global/components/framework/layoutAssetStartBodyInfo -->
+<!-- start : ocom/common/global/components/banner -->
+<!-- end : ocom/common/global/components/banner -->
+<!-- start : ocom/common/global/components/u03v5-breadcrumb -->
+<!-- U03v5 -->
+<nav class="u03 u03v5 u03bttns" data-trackas="breadcrumb" data-ocomid="u03">
+	<div class="cwidth">
+		<div class="u03w1">
+			<ul>
+				
+						<li class="u03first"><a href="/downloads/index.html">Downloads</a></li>
+						
+			</ul>
+
+			<h1>Oracle Trials and Downloads</h1>
+
+		</div>
+
+		
+
+	</div>
+</nav>
+<!-- /U03v5 -->
+	<!-- end : ocom/common/global/components/u03v5-breadcrumb -->
+<!-- start : ocom/common/global/components/compass/related-widgets -->
+	<!-- Dispatcher:null -->
+	
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- CB88v0 -->
+<section class="cb88 cb88v0 cpad" data-trackas="cb88" data-ocomid="cb88">
+
+	<div class="cb88w1 cwidth">
+
+
+		<div class="col-framework col3 col-gutters col-top">
+			<div class="col-w1">
+				<a class="col-item" href="http://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html" data-lbl="cta-062918-downlads-feat-dl-18c-client">
+					<div class="col-item-w1">
+					<img src="/a/ocom/img/cb88-db-18c.gif">
+					</div>
+					<div class="col-item-w2">
+						<h3>Featured Download: Database 18c Client</h3>
+					</div>
+				</a>
+				<a class="col-item" href="https://cloud.oracle.com/en_US/visual-builder" data-lbl="cta-0629-dl-page-trial-vis-build">
+					<div class="col-item-w1">
+					<img src="//www.oracle.com/a/ocom/img/cb88-free-trial.jpg">
+					</div>
+					<div class="col-item-w2">
+						<h3>Free Trial: Autonomous Visual Builder Cloud</h3>
+					</div>
+				</a>
+				<a class="col-item" href="/code-one/index.html?source=:ow:o:h:sb:&intcmp=:ow:o:h:sb:" data-lbl="cta--events-code-one-062818">
+					<div class="col-item-w1">
+					<img src="//www.oracle.com/a/ocom/img/cb88-oracle-code-one.jpg">
+					</div>
+					<div class="col-item-w2">
+						<h3>Attend a Conference for All Developers</h3>
+					</div>
+				</a>
+
+			</div>
+		</div>
+
+	</div>
+
+</section>
+<!-- /CB88v0 -->
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+	<!-- Dispatcher:null -->
+	
+		<!-- BEGIN: oWidget_C/Raw-HTML/Display -->
+		<!-- CN26v1 -->
+<div class="cn26 cn26v1" data-ocomid="cn26" data-trackas="cn26">
+<div class="cn26w1 mwidth">
+<h2 data-selectlabel="Jump to category:">Downloads by Category*</h2>
+
+<nav>
+<ul>
+	<li><a href="#category-database"><span class="cn26w2 icn-database icn-img"><span>Database</span></span></a></li>
+	<li><a href="#category-middleware"><span class="cn26w2 icn-img icn-middleware"><span>Middleware</span></span></a></li>
+	<li><a href="#category-applications"><span class="cn26w2 icn-img icn-server-application"><span>Applications</span></span></a></li>
+	<li><a href="#category-it"><span class="cn26w2 icn-cmpn-server-exadata icn-img"><span>IT Infrastructure </span></span></a></li>
+	<li><a href="#category-java"><span class="cn26w2 icn-img icn-java"><span>Java</span></span></a></li>
+	<li><a href="#category-devtools"><span class="cn26w2 icn-developer-ops icn-img"><span>Developer Tools</span></span></a></li>
+	<li><a href="#category-utility"><span class="cn26w2 icn-img icn-support-simplified"><span>Drivers and Utilities </span></span></a></li>
+	<li><a href="#category-source-code"><span class="cn26w2 icn-developmentcode icn-img"><span>Open Source</span></span></a></li>
+</ul>
+</nav>
+</div>
+</div>
+<!-- /CN26v1 --><!--Database-->
+
+<section class="cb85 cb85v0" data-ocomid="cb85" data-trackas="cb85" id="category-database">
+<div class="cb85w1 cwidth">
+<div class="cb85w2 col-framework col3 col-gutters col-justified">
+<div class="col-w1 ">
+<div class="col-item cb85w3">
+<div class="col-item-w1">
+<h3 class="icn-heading icn-database" style="display: block;">Database</h3>
+</div>
+</div>
+
+<div class="col-item cb85w4">
+<div class="col-item-w1">
+<ul class="cta-list">
+	<li><a href="//www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html">Database 18c Client</a></li>
+	<li><a href="//www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html">Database 12c Enterprise/Standard Editions</a></li>
+	<li><a href="//www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html">Database 11g Enterprise/Standard Editions</a></li>
+	<li><a href="//www.oracle.com/technetwork/database/database-technologies/express-edition/downloads/index.html">Database 11g Express Edition</a></li>
+	<li><a href="//www.oracle.com/technetwork/database/database-technologies/audit-vault-and-database-firewall/overview/overview-1877404.html">Audit Vault and Database Firewall</a></li>
+	<li><a href="//www.oracle.com/technetwork/database/database-technologies/berkeleydb/downloads/index.html">Berkeley DB</a></li>
+	<li><a href="//www.oracle.com/technetwork/database/database-technologies/bdc/big-data-connectors/downloads/index.html">Big Data Connectors</a></li>
+	<li><a href="//www.oracle.com/technetwork/database/options/clustering/downloads/cvu-download-homepage-099973.html">Cluster Verification Utility</a></li>
+	<li><a href="//www.oracle.com/technetwork/database/database-technologies/database-mobile-server/downloads/index.html">Database Mobile Server</a></li>
+	<li><a href="//www.oracle.com/technetwork/database/database-technologies/clusterware/downloads/index.html">Grid Infrastructure</a></li>
+</ul>
+</div>
+</div>
+
+<div class="col-item cb85w4">
+<div class="col-item-w1">
+<ul class="cta-list">	
+	<li><a href="//www.oracle.com/technetwork/database/enterprise-edition/downloads/index-092535.html">ILM Assistant</a></li>
+	<li><a href="//www.oracle.com/technetwork/database/database-technologies/instant-client/index-097480.html">Instant Client</a></li>
+	<li><a href="http://www.mysql.com/downloads/">MySQL</a></li>
+	<li><a href="//www.oracle.com/technetwork/database/database-technologies/nosqldb/downloads/index.html">NoSQL Database</a></li>
+	<li><a href="//www.oracle.com/technetwork/database/database-technologies/rdb/downloads/index.html">Rdb Products</a></li>
+	<li><a href="//www.oracle.com/technetwork/indexes/downloads/r-distribution-1532464.html">R Distribution</a></li>
+	<li><a href="//www.oracle.com/technetwork/database/database-technologies/secure-backup/downloads/index.html">Secure Backup</a></li>
+	<li><a href="//www.oracle.com/technetwork/database/database-technologies/secure-backup/secure-backup-s3-484709.html">Secure Backup Cloud Module for Amazon S3</a></li>
+	<li><a href="//www.oracle.com/technetwork/database/database-technologies/timesten/downloads/index.html">TimesTen In-Memory Database</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!--Middleware -->
+
+<section class="cb85 cb85v0" data-ocomid="cb85" data-trackas="cb85" id="category-middleware">
+<div class="cb85w1 cwidth">
+<div class="cb85w2 col-framework col3 col-gutters col-justified">
+<div class="col-w1 ">
+<div class="col-item cb85w3">
+<div class="col-item-w1">
+<h3 class="icn-heading icn-middleware" style="display: block;">Middleware</h3>
+</div>
+</div>
+
+<div class="col-item cb85w4">
+<div class="col-item-w1">
+<ul class="cta-list">
+	<li><a href="//www.oracle.com/technetwork/middleware/downloads/addthis-downloads-3752152.html">AddThis AngularJS Module</a></li>
+	<li><a href="//www.oracle.com/technetwork/oem/app-test/index-084446.html">Application Testing Suite</a></li>
+	<li><a href="//www.oracle.com/technetwork/oem/downloads/btw-downloads-207704.html">Business Transaction Management</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/big-data-discovery/downloads/index.html">Big Data Discovery</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/bam/downloads/index-096115.html">Business Activity Monitoring</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/bi-enterprise-edition/downloads/index.html">Business Intelligence Suite EE</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/bi-enterprise-edition/downloads/index.html">Business Intelligence Applications</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/bi-foundation/bi-mobile-ad-trial-download-2020939.html">Business Intelligence Mobile App Designer</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/bi-enterprise-edition/downloads/bi-mobile-security-toolkit-1872818.html">Business Intelligence Mobile Security Toolkit</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/bi-publisher/downloads/index.html">Business Intelligence Publisher</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/bpm/downloads/index.html">Business Process Management</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/coherence/downloads/index.html">Coherence</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/cmsdk/downloads/downloads-2005955.html">Content Management SDK</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/epm/downloads/index.html">Crystal Ball</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/data-integrator/downloads/index.html">Data Integrator and Suite</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/oracle-data-visualization/index.html">Data Visualization</a></li>
+	<li><a href="//www.oracle.com/technetwork/developer-tools/discoverer/downloads/index-095113.html">Discoverer</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/endeca/downloads/downloads-1544965.html">Endeca Information Discovery</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/endecaserver/downloads/endeca-server-downloads-1721978.html">Endeca Server</a></li>
+	<li><a href="//www.oracle.com/technetwork/oem/enterprise-manager/downloads/index.html">Enterprise Manager</a></li>
+	<li><a href="//www.oracle.com/technetwork/oem/extensions/index-100685.html">Enterprise Manager Plugins</a></li>
+	<li><a href="//www.oracle.com/technetwork/oem/ops-center/oem-ops-center-188778.html">Enterprise Manager Ops Center</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/oes/downloads/index.html">Entitlements Server</a></li>
+	<li><a href="//www.oracle.com/technetwork/developer-tools/forms/downloads/index.html">Forms &amp; Reports Services</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/downloads/index-087510.html">Fusion Middleware</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/glassfish/downloads/index.html">GlassFish Server</a></li>
+</ul>
+</div>
+</div>
+
+<div class="col-item cb85w4">
+<div class="col-item-w1">
+<ul class="cta-list">	
+	<li><a href="//www.oracle.com/technetwork/middleware/goldengate/downloads/index.html">GoldenGate</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/epm/downloads/index.html">Hyperion Performance Management and BI</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/id-mgmt/downloads/idm-download-090222.html">Identity Management</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/adapters/downloads/index.html">Integration Adapters</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/ias/downloads/101310-085449.html">Internet Application Server 10g and Components</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/jrockit/downloads/index.html">JRockit</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/mft/downloads/index.html">Managed File Transfer</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/webcenter/content/oit-dl-otn-097435.html">Outside In Technology</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/portal/downloads/downloads-160535.html">Portal</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/insight/downloads/index.html">Real-Time Integration Business Insight</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/real-time-decisions/downloads/devlic-096283.html">Real-Time Decisions</a></li>
+	<li><a href="//www.oracle.com/technetwork/oem/downloads/real-user-experience-insight-098009.html">Real User Experience Insight</a></li>
+	<li><a href="//www.oracle.com/technetwork/search/oses/downloads/index.html">Secure Enterprise Search</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/service-bus/downloads/index.html">Service Bus</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/soasuite/downloads/index.html">SOA Suite</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/complex-event-processing/downloads/index.html">Stream Analytics</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/tuxedo/downloads/index.html">Tuxedo</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/ovab/downloads/index.html">Virtual Assembly Builder</a></li>
+	<li><a href="//www.oracle.com/technetwork/testcontent/index-085253.html">Web Services Manager</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/webtier/downloads/index-jsp-156711.html">Web Tier</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/content-management/downloads/index.html">WebCenter Content</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/webcenter/portal/downloads/index.html">WebCenter Portal</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/webcenter/sites/downloads/index.html">WebCenter Sites</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/weblogic/downloads/index.html">WebLogic Server 12c </a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!--Industries-->
+
+<section class="cb85 cb85v0" data-ocomid="cb85" data-trackas="cb85" id="category-applications">
+<div class="cb85w1 cwidth">
+<div class="cb85w2 col-framework col3 col-gutters col-justified">
+<div class="col-w1 ">
+<div class="col-item cb85w3">
+<div class="col-item-w1">
+<h3 class="icn-heading icn-server-application" style="display: block;">Applications</h3>
+</div>
+</div>
+
+<div class="col-item cb85w4">
+<div class="col-item-w1">
+<ul class="cta-list">
+	<li><a href="//www.oracle.com/technetwork/apps-tech/aia/downloads/pipdownloads-156953.html">AIA Process Integration</a></li>
+	<li><a href="//www.oracle.com/technetwork/apps-tech/commerce/index.html">Commerce</a></li>
+	<li><a href="//www.oracle.com/technetwork/apps-tech/index-098865.html">Communications</a></li>
+	<li><a href="http://edelivery.oracle.com/">E-Business Suite, PeopleSoft, JD Edwards, Siebel CRM</a></li>
+</ul>
+</div>
+</div>
+
+<div class="col-item cb85w4">
+<div class="col-item-w1">
+<ul class="cta-list">
+	<li><a href="http://download.oracle.com/otndocs/hcm-cloud-solution-library/index.html">HCM Cloud Solution Library</a></li>
+	<li><a href="//www.oracle.com/technetwork/apps-tech/policy-automation/downloads/index.html">Policy Automation</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/upk/upk-download-154651.html">User Productivity Kit (UPK/UPK Professional)</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!--IT-->
+
+<section class="cb85 cb85v0" data-ocomid="cb85" data-trackas="cb85" id="category-it">
+<div class="cb85w1 cwidth">
+<div class="cb85w2 col-framework col3 col-gutters col-justified">
+<div class="col-w1 ">
+<div class="col-item cb85w3">
+<div class="col-item-w1">
+<h3 class="icn-heading icn-cmpn-server-exadata" style="display: block;">IT Infrastructure</h3>
+</div>
+</div>
+
+<div class="col-item cb85w4">
+<div class="col-item-w1">
+<ul class="cta-list">
+	<li><a href="//www.oracle.com/technetwork/database/database-technologies/clusterware/downloads/index.html">Grid Infrastructure</a></li>
+	<li><a href="//www.oracle.com/technetwork/server-storage/san-storage/downloads/disk-storage-downloads-165809.html">Oracle Flash Storage System and Pillar Axiom Plug-ins</a></li>
+	<li><a href="http://edelivery.oracle.com/linux">Oracle Linux and Oracle Enterprise Kernel</a></li>
+	<li><a href="//www.oracle.com/technetwork/server-storage/securedesktop/downloads/index.html">Secure Global Desktop</a></li>
+	<li><a href="//www.oracle.com/technetwork/server-storage/solaris10/downloads/index.html">Solaris 10</a></li>
+	<li><a href="//www.oracle.com/technetwork/server-storage/solaris11/downloads/index.html">Solaris 11</a></li>
+	<li><a href="//www.oracle.com/technetwork/server-storage/solaris-cluster/downloads/index.html">Solaris Cluster</a></li>
+</ul>
+</div>
+</div>
+
+<div class="col-item cb85w4">
+<div class="col-item-w1">
+<ul class="cta-list">
+	<li><a href="http://edelivery.oracle.com/">Solaris Legacy Containers</a></li>
+	<li><a href="//www.oracle.com/technetwork/server-storage/sun-unified-storage/downloads/zfssa-plugins-1489830.html">Sun ZFS Storage Appliance Plugins</a></li>
+	<li><a href="//www.oracle.com/technetwork/server-storage/vdbench-downloads-1901681.html">Vdbench</a></li>
+	<li><a href="//www.oracle.com/technetwork/server-storage/vm/downloads/index.html">VM Server</a></li>
+	<li><a href="//www.oracle.com/technetwork/server-storage/virtualbox/downloads/index.html">VM VirtualBox</a></li>
+	<li><a href="//www.oracle.com/technetwork/server-storage/virtualdesktop/downloads/index.html">Virtual Desktop Infrastructure</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!--Java-->
+
+<section class="cb85 cb85v0" data-ocomid="cb85" data-trackas="cb85" id="category-java">
+<div class="cb85w1 cwidth">
+<div class="cb85w2 col-framework col3 col-gutters col-justified">
+<div class="col-w1 ">
+<div class="col-item cb85w3">
+<div class="col-item-w1">
+<h3 class="icn-heading icn-java" style="display: block;">Java</h3>
+</div>
+</div>
+
+<div class="col-item cb85w4">
+<div class="col-item-w1">
+<ul class="cta-list">
+	<li><a href="http://java.com/download">Java (JRE) for Consumers</a></li>
+	<li><a href="//www.oracle.com/technetwork/java/javase/downloads/index.html">Java (JDK) for Developers</a></li>
+	<li><a href="//www.oracle.com/technetwork/java/embedded/embedded-suite/downloads/java-embedded-suite-download-2099065.html">Event Processing for Java Embedded </a></li>
+	<li><a href="//www.oracle.com/technetwork/java/embedded/javacard/downloads/default-1970005.html">Java Card</a></li>
+	<li><a href="//www.oracle.com/technetwork/java/javaee/downloads/index-jsp-140710.html">Java EE &amp; GlassFish Server</a></li>
+	<li><a href="//www.oracle.com/technetwork/java/embedded/embedded-suite/downloads/java-embedded-suite-download-2099065.html">Java Embedded Suite</a></li>
+	<li><a href="//www.oracle.com/technetwork/java/embedded/javame/java-mobile/downloads/javaformobiledevicesdownloads-2194042.html">Java for Mobile</a></li>
+	<li><a href="//www.oracle.com/technetwork/java/embedded/javame/overview/javameoverview-2183586.html">Java ME</a></li>
+</ul>
+</div>
+</div>
+
+<div class="col-item cb85w4">
+<div class="col-item-w1">
+<ul class="cta-list">
+	<li><a href="//www.oracle.com/technetwork/java/embedded/javame/embed-me/downloads/java-embedded-java-me-download-2162242.html">Java ME Embedded</a></li>
+	<li><a href="//www.oracle.com/technetwork/java/embedded/javame/embed-me/downloads/java-embedded-java-me-download-2162242.html">Java ME Embedded Client</a></li>
+	<li><a href="//www.oracle.com/technetwork/java/embedded/javame/javame-sdk/downloads/javamesdkdownloads-2166598.html">Java ME SDK</a></li>
+	<li><a href="http://java.com/download">Java Runtime Environment (JRE)</a></li>
+	<li><a href="//www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html">Java SE</a></li>
+	<li><a href="//www.oracle.com/technetwork/java/embedded/embedded-se/downloads/javase-embedded-downloads-2209751.html">Java SE Embedded</a></li>
+	<li><a href="//www.oracle.com/technetwork/java/embedded/javame/java-tv/downloads/javatvdownloads-2199770.html">Java TV</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!--Dev Tools-->
+
+<section class="cb85 cb85v0" data-ocomid="cb85" data-trackas="cb85" id="category-devtools">
+<div class="cb85w1 cwidth">
+<div class="cb85w2 col-framework col3 col-gutters col-justified">
+<div class="col-w1 ">
+<div class="col-item cb85w3">
+<div class="col-item-w1">
+<h3 class="icn-heading icn-developer-ops" style="display: block;">Developer Tools</h3>
+</div>
+</div>
+
+<div class="col-item cb85w4">
+<div class="col-item-w1">
+<ul class="cta-list">
+	<li><a href="//www.oracle.com/technetwork/developer-tools/adf/overview/index-092391.html">ADF Faces</a></li>
+	<li><a href="//www.oracle.com/technetwork/developer-tools/apex/downloads/index.html">Application Express Standalone</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/bi-publisher/downloads/index.html">BI Publisher</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/bi-foundation/downloads/download-088181.html">BI Spreadsheet Add-in</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/ias/downloads/index-095689.html">BPEL Process Manager</a></li>
+	<li><a href="//www.oracle.com/technetwork/database/options/advanced-analytics/odm/downloads/index.html">Data Miner</a></li>
+	<li><a href="//www.oracle.com/technetwork/developer-tools/developer-suite/downloads/index.html">Developer Suite 10g</a></li>
+	<li><a href="//www.oracle.com/technetwork/topics/dotnet/downloads/net-downloads-160392.html">Developer Tools for Visual Studio</a></li>
+	<li><a href="//www.oracle.com/technetwork/developer-tools/eclipse/downloads/index.html">Enterprise Pack for Eclipse</a></li>
+	<li><a href="//www.oracle.com/technetwork/developer-tools/forms/downloads/index.html">Forms &amp; Reports Services</a></li>
+	<li><a href="//www.oracle.com/technetwork/developer-tools/jdev/downloads/index.html">JDeveloper &amp; ADF</a></li>
+	<li><a href="https://netbeans.org/downloads/">NetBeans IDE</a></li>
+</ul>
+</div>
+</div>
+
+<div class="col-item cb85w4">
+<div class="col-item-w1">
+<ul class="cta-list">
+	<li><a href="//www.oracle.com/technetwork/middleware/soasuite/downloads/index.html">SOA Suite</a></li>
+	<li><a href="//www.oracle.com/technetwork/server-storage/developerstudio/downloads/index-jsp-141149.html">Developer Studio</a></li>
+	<li><a href="//www.oracle.com/technetwork/developer-tools/sql-developer/downloads/index.html">SQL Developer</a></li>
+	<li><a href="//www.oracle.com/technetwork/developer-tools/datamodeler/downloads/datamodeler-087275.html">SQL Developer Data Modeler</a></li>
+	<li><a href="//www.oracle.com/technetwork/developer-tools/acsls-csc-toolkit-1703520.html">StorageTek</a></li>
+	<li><a href="//www.oracle.com/technetwork/developer-tools/tpc/overview/index.html">Team Productivity Center</a></li>
+	<li><a href="//www.oracle.com/technetwork/middleware/toplink/downloads/index.html">TopLink</a></li>
+	<li><a href="//www.oracle.com/technetwork/community/developer-vm/index.html">VM: Pre-Built VirtualBox VMs</a></li>
+	<li><a href="//www.oracle.com/technetwork/server-storage/vm/overview/templates-101937.html">VM: Oracle VM Templates</a></li>
+	<li><a href="//www.oracle.com/technetwork/developer-tools/warehouse/downloads/index.html">Warehouse Builder</a></li>
+	<li><a href="//www.oracle.com/technetwork/developer-tools/webrtc/overview/wsc-overview-2547441.html">WebRTC Session Controller Client SDK</a></li>
+	<li><a href="//www.oracle.com/technetwork/database/database-technologies/xmldb/downloads/index-100632.html">XML Developer Kit 10g</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!--Drivers & Utilities-->
+
+<section class="cb85 cb85v0" data-ocomid="cb85" data-trackas="cb85" id="category-utility">
+<div class="cb85w1 cwidth">
+<div class="cb85w2 col-framework col3 col-gutters col-justified">
+<div class="col-w1 ">
+<div class="col-item cb85w3">
+<div class="col-item-w1">
+<h3 class="icn-heading icn-support-simplified" style="display: block;">Drivers and Utilities</h3>
+</div>
+</div>
+
+<div class="col-item cb85w4">
+<div class="col-item-w1">
+<ul class="cta-list">
+	<li><a href="//www.oracle.com/technetwork/database/options/clustering/downloads/cvu-download-homepage-099973.html">Cluster Verification Utility</a></li>
+	<li><a href="//www.oracle.com/technetwork/database/database-technologies/globalization/dmu/downloads/index.html">Database Migration Assistant for Unicode</a></li>
+	<li><a href="//www.oracle.com/technetwork/oem/extensions/index-100685.html">Enterprise Manager Grid Control Plugins</a></li>
+	<li><a href="//www.oracle.com/technetwork/database/windows/downloads/index-093848.html">Failsafe</a></li>
+	<li><a href="//www.oracle.com/technetwork/developer-tools/help/utilsoft-ohw-422139.html">Help Technologies</a></li>
+	<li><a href="//www.oracle.com/technetwork/developer-tools/jdev/downloads/index-090647.html">JDeveloper Extensions</a></li>
+	<li><a href="//www.oracle.com/technetwork/developer-tools/jdev/downloads/index-091862.html">JDeveloper Extension SDK</a></li>
+	<li><a href="//www.oracle.com/technetwork/database/database-technologies/multimedia/downloads/index-102003.html">Multimedia Utilities &amp; Plugins</a></li>
+</ul>
+</div>
+</div>
+
+<div class="col-item cb85w4">
+<div class="col-item-w1">
+<ul class="cta-list">
+	<li><a href="//www.oracle.com/technetwork/oracle-labs/parallel-graph-analytix/downloads/downloads-2206142.html">Parallel Graph Analytics (PGX)</a></li>
+	<li><a href="//www.oracle.com/technetwork/oracle-labs/program-languages/overview/index-2301583.html">Programming Languages and Runtimes</a></li>
+	<li><a href="//www.oracle.com/technetwork/database/options/spatialandgraph/downloads/index-093371.html">Spatial Utilities &amp; Plugins</a></li>
+	<li><a href="//www.oracle.com/technetwork/testcontent/index-093957.html">Software Packager</a></li>
+	<li><a href="//www.oracle.com/technetwork/oracle-labs/souffle/downloads/souffle-downloads-2904137.html">Souffl&eacute;</a></li>
+	<li><a href="//www.oracle.com/technetwork/database/migration/index-084442.html">SQL Developer Migration Workbench</a></li>
+	<li><a href="//www.oracle.com/technetwork/database/enterprise-edition/downloads/index-091264.html">SQLJ Translator</a></li>
+	<li><a href="//www.oracle.com/technetwork/database/enterprise-edition/downloads/index-100516.html">Text Utilities &amp; Plugins</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section class="cb85 cb85v0" data-ocomid="cb85" data-trackas="cb85" id="category-source-code">
+<div class="cb85w1 cwidth">
+<div class="cb85w2 col-framework col3 col-gutters col-justified">
+<div class="col-w1 ">
+<div class="col-item cb85w3">
+<div class="col-item-w1">
+<h3 class="icn-heading icn-developmentcode" style="display: block;">Open Source</h3>
+</div>
+</div>
+
+<div class="col-item cb85w4">
+<div class="col-item-w1">
+<ul class="cta-list">
+	<li><a href="/downloads/opensource.html#category-oracleapps-features">Applications</a></li>
+	<li><a href="/downloads/opensource.html#category-oracledb-features">Databases</a></li>
+	<li><a href="/downloads/opensource.html#category-devtools-features">Developer Tools</a></li>
+	<li><a href="/downloads/opensource.html#category-industries-features">Industries</a></li>
+	<li><a href="/downloads/opensource.html#category-javafx-features">JavaFX</a></li>
+</ul>
+</div>
+</div>
+
+<div class="col-item cb85w4">
+<div class="col-item-w1">
+<ul class="cta-list">
+	<li><a href="/downloads/opensource.html#category-jdk7-features">JDK7</a></li>
+	<li><a href="/downloads/opensource.html#category-middleware-features">Middleware</a></li>
+	<li><a href="/downloads/opensource.html#category-oos-features">Operating Systems</a></li>
+	<li><a href="/downloads/opensource.html#category-oraclecloud-features">Oracle Cloud</a></li>
+	<li><a href="/downloads/opensource.html#category-server-storage-features">Servers and Storage</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- /CB85v0 -->
+
+<section class="cc01 cc01v0 cpad">
+<div class="cc01w1 cwidth">
+<p>*Developers: All software downloads are free, and most come with a <a class="ol" href="//www.oracle.com/technetwork/licenses/standard-license-152015.html">Developer License</a> that allows you to use full versions of the products at no charge while developing and prototyping your applications, or for strictly self-educational purposes. (Unless otherwise specified, our technical support organization will not provide technical support, phone support, or updates to you for the programs licensed under this agreement.) You can buy products with full-use licenses at any time from the online <a class="ol" href="https://shop.oracle.com/">Store</a> or from your <a class="ol" href="//www.oracle.com/us/corporate/contact/global-070511.html?ssSourceSiteId=otnen">sales representative</a>.</p>
+
+<p>Customers: If you already have a commercial license, you should download your software from the <a class="ol" href="https://edelivery.oracle.com/">Oracle Software Delivery Cloud</a>, which is specifically designed for customer fulfillment. For patches, see <a class="ol" href="https://support.oracle.com/">My Oracle Support</a>.</p>
+</div>
+</section>
+
+
+		<!-- END: oWidget_C/Raw-HTML/Display -->
+	
+<!-- end : ocom/common/global/components/compass/related-widgets -->
+<!-- start : ocom/common/global/components/framework/layoutAssetEndBodyInfo -->
+	<!-- Dispatcher:null -->
+	
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- U10v0 -->
+<div id="u10" class="u10v0" data-trackas="ffooter">
+<div class="u10w1">
+<div class="u10w2">
+<div class="u10w3">
+<h5>Contact Us</h5>
+<ul>
+<li>US Sales: +1.800.633.0738</li>
+<li><a data-lbl="contact-us:global-contacts" href="/corporate/contact/global.html">Global Contacts</a></li>
+<li><a data-lbl="contact-us:support-directory" href="/support/contact.html">Support Directory</a></li>
+<li><a data-lbl="contact-us:subscribe-to-emails" href="https://go.oracle.com/subscriptions?l_code=en-us&amp;src1=OW:O:FO">Subscribe to Emails</a></li>
+</ul>
+</div>
+</div>
+
+<div class="u10w2">
+<div class="u10w3">
+<h5>About Oracle</h5>
+<ul>
+<li><a data-lbl="about-oracle:careers" href="/corporate/careers/index.html">Careers</a></li>
+<li><a data-lbl="about-oracle:company-information" href="/corporate/index.html">Company Information</a></li>
+<li><a data-lbl="about-oracle:ccr" href="/corporate/citizenship/index.html">Social Responsibility</a></li>
+<li><a data-lbl="about-oracle:communities" href="https://community.oracle.com/welcome">Communities</a></li>
+</ul>
+</div>
+</div>
+
+
+<div class="u10w2">
+<div class="u10w3">
+<h5>Downloads and Trials</h5>
+<ul>
+<li><a data-lbl="downloads-trials:java-runtime" href="https://www.java.com/en/download/">Java Runtime Download</a></li>
+<li><a data-lbl="downloads-trials:java-developers" href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">Java for Developers</a></li>
+<li><a data-lbl="downloads-trials:software-downloads" href="/downloads/index.html">Software Downloads</a></li>
+<li><a data-lbl="downloads-trials:try-cloud" href="https://cloud.oracle.com/en_US/tryit?intcmp=ocom-ft">Try Oracle Cloud Platform</a></li>
+</ul>
+</div>
+</div>
+<div class="u10w2">
+<div class="u10w3">
+<h5>News and Events</h5>
+<ul>
+<li><a data-lbl="news-events:acquisitions" href="/corporate/acquisitions/index.html">Acquisitions</a></li>
+<li><a data-lbl="news-events:blogs" href="https://blogs.oracle.com/">Blogs</a>
+<li><a data-lbl="news-events:events" href="/search/events">Events</a>
+<li><a data-lbl="news-events:newsroom" href="/corporate/press/index.html">Newsroom</a></li>
+</ul>
+</div>
+</div>
+
+<div class="u10w4">
+<hr />
+</div>
+<div class="u10w5" data-trackas="footer">
+
+<ul class="scl-icons">
+<li class="scl-facebook"><a data-lbl="scl-icon:facebook" href="https://www.facebook.com/Oracle/" title="Oracle on Facebook">Facebook</a></li>
+<li class="scl-twitter"><a data-lbl="scl-icon:twitter" href="https://twitter.com/oracle" title="Follow Oracle on Twitter">Twitter</a></li>
+<li class="scl-linkedin"><a data-lbl="scl-icon:linkedin" href="https://www.linkedin.com/company/oracle/" title="Oracle on LinkedIn">LinkedIn</a></li>
+<li class="scl-googleplus"><a data-lbl="scl-icon:google-plus" href="https://plus.google.com/+oracle" title="Follow Oracle on Google+">Google+</a></li>
+<li class="scl-youtube"><a data-lbl="scl-icon:you-tube" href="http://www.youtube.com/oracle/" title="Watch Oracle on YouTube">YouTube</a></li>
+<li class="scl-feed"><a data-lbl="scl-icon:rss" href="http://www.oracle.com/us/syndication/feeds/index.html" title="Oracle RSS Feeds">Oracle RSS Feed</a></li>
+</ul>
+
+<div class="u10-ologo"><a data-lbl="integrated-cloud-applications-and-platform-services" href="/index.html">Oracle</a></div>
+<h3>Integrated Cloud Applications &amp; Platform Services</h3>
+
+<ul class="u10-links">
+<li><a data-lbl="copyright" href="/legal/copyright.html">&copy; Oracle</a></li>
+<li><a data-lbl="site-map" href="/sitemap.html">Site Map</a></li>
+<li><a data-lbl="terms-of-use-and-privacy" href="/legal/privacy/index.html">Terms of Use and Privacy</a></li>
+<li><div id="teconsent"></div></li>
+<li class="u10last"><a data-lbl="ad-choices" href="/legal/privacy/privacy-policy.html#advertising">Ad Choices</a></li>
+</ul>
+
+</div>
+</div>
+</div>
+<!-- /U10v0 -->
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+
+	</div>
+
+	
+	<!-- Dispatcher:null -->
+	
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- Start - End Body Admin Container -->
+<!-- Start SiteCatalyst code -->
+<script language="JavaScript" src="https://www.oracleimg.com/us/assets/metrics/ora_ocom.js"></script>
+<!-- End SiteCatalyst code -->
+<!--DTM embed code - Footer -->
+<script type="text/javascript">_satellite.pageBottom();</script>
+<!--End-->
+<!-- End - End Body Admin Container -->
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+
+<!-- end : ocom/common/global/components/framework/layoutAssetEndBodyInfo -->
+
+
+	</body>
+	<!-- end : Framework/Generic -->
+</html>
