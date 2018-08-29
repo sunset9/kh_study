@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style type="text/css">
+* { /* 전체 선택자 */
+	margin: 0; /* margin 없애기 */
+	padding: 0; /* padding 없애기 */
+}
+
+p { /* 태그 선택자 */
+	padding: 10px;
+	margin: 10px 20px 15px 5px;
+	background: yellow;
+	color: green;
+}
+span {
+	/* inline요소는 상하 마진이 적용되지 않는다 */
+ 	margin: 30px; /* = margin: 0 30px; */ 
+}
+div {
+	/* 상 좌우 하 */
+	margin: 5px 20px 30px;
+	border: 3px dotted black;
+	padding: 20px;
+	/* content + padding + border = (내부영역)에 배경색을 칠함 */
+	background: red;
+}
+</style>
+</head>
+<body>
+
+<p>p 태그</p>
+<span>span 태그</span>
+<div>
+	div 태그
+	<p>div 태그 내부 p 태그</p>
+</div>
+
+</body>
+</html>

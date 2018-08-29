@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style type="text/css">
+
+/* ID 선택자, #idName */
+#one {	color: blue; }
+#two {	color: #ccc; }
+#three {	border: 1px solid red; }
+
+</style>
+</head>
+<body>
+<p id="one">p태그</p>
+<span id="two">span태그</span>
+<div id="three">
+	div태그
+	<p id="three">div태그 내부 p태그</p>
+</div>
+<!-- id는 같은 값으로 여러 요소에 적용하면 안된다 -->
+<!-- HTML 문서에서 유일한 값이어야 한다 -->
+<!-- ** 같은 아이디를 가진 요소들에 스타일은 동시 적용되지만 하지말 것!! -->
+
+</body>
+</html>

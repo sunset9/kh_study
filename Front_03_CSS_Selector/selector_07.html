@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style type="text/css">
+
+/* div에 마우스 올리면 반응 */
+div:hover { 
+	color:red; 
+}
+
+/* span클릭하면 반응 */
+span:active {
+	color: orange;
+	font-size: 30px;
+}
+
+span:hover{
+	background-color: skyblue;
+}
+
+div input[type="button"]:active{
+	color: blue;
+}
+
+a:link{ color:red; }
+a:visited { color:gray; }
+
+:checked {
+	width: 50px;
+	height: 50px;
+	font-size: 2em;
+}
+
+:enabled {
+	font-size: 30px;
+}
+
+:disabled {
+	font-size: 10px;
+}
+
+/* :empty { */
+div:empty {
+	height: 100px;
+	background: yellow;
+}
+
+:focus {
+	color: tomato;
+}
+</style>
+</head>
+<body>
+<div>
+
+<span>span태그 안쪽</span>span태그 바깥쪽<br>
+<input type="button" value="확인"/><br>
+
+<a href="http://www.naver.com" target="_blank">네이버</a>
+<a href="http://www.daum.net" target="_blank">다음</a>
+<a href="http://www.daum.net" target="_blank">다음</a>
+
+<label>
+	<input type="checkbox"/>확인
+</label>
+
+<hr>
+<button disabled="disabled">버튼</button>
+
+<hr>
+<div></div>
+
+<hr>
+<input type="text"/>
+
+</div>
+</body>
+</html>
